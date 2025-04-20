@@ -1,7 +1,7 @@
 <br><br>
 <h1>Technology</h1>
 <ul>
-<li> :snake: Python </li>
+<li> :snake: Python </li> 
   <li> :snake: OpenCV </li>
   <li> :snake: Morphological operators </li>
 </ul>
